@@ -154,14 +154,18 @@ Feel free to fork, improve, or suggest features via pull requests or issues.
 
 ---
 
+## 🙋‍♀️ Author
+
+**K.Kavya**  
+🎓 Student, SRM University AP  
+💡 Enthusiastic about data analysis and visualization with Python
+
+---
+
 ## 📬 Contact
 
-**Developed by K.Kavya**  
-🎓 Student, SRM University AP  
-💡 Enthusiastic about data analysis and visualization with Python  
 📧 Connect with me via Gmail: [kavyarambabu232@gmail.com](mailto:kavyarambabu232@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/kavya-kesani-700a51292](https://www.linkedin.com/in/kavya-kesani-700a51292)
-
 
 ---
 
