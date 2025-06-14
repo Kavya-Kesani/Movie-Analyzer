@@ -148,6 +148,38 @@ Murari,Drama,7.6,2001
 
 ---
 
+## 📸 Sample Visual Output
+
+- 🏆 Top N Rated Movies
+
+  ![py 1](https://github.com/user-attachments/assets/efb1fc28-4096-4405-8f63-121ce5ecd2ec)
+
+- 🧮 Genre-wise Average Rating
+
+  ![py 2](https://github.com/user-attachments/assets/0d2caf55-cf32-4af2-a4d7-594694b92eab)
+ 
+- 📊 Bar Chart
+
+  ![py 5](https://github.com/user-attachments/assets/3b822eb5-27f7-4e3d-9440-8639ec0e5cc2)
+
+- 🥧 Pie Chart
+
+  ![py 6](https://github.com/user-attachments/assets/5e6abec0-136e-443c-a760-c88effd8a66d)
+
+- 📈 Line Chart
+
+  ![py 7](https://github.com/user-attachments/assets/15a7c321-f083-4ede-95cd-2e29b9d30dc1)
+
+- ⭐ Minimum Rating Filter
+
+  ![py 3](https://github.com/user-attachments/assets/3ef83bc5-d6f5-4235-ad0a-138ce31cf0d2)
+
+- 🎭 Genre Filtered View
+
+![py 4](https://github.com/user-attachments/assets/50114650-c295-41d3-bad6-8b082c7393d1)
+
+---
+
 ## 🤝 Contribution
 
 Feel free to fork, improve, or suggest features via pull requests or issues.
