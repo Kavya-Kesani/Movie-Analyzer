@@ -127,14 +127,6 @@ Murari,Drama,7.6,2001
 
 ---
 
-## 📸 Sample Visual Output
-
-- **Bar Chart**: Year vs. Number of Movies  
-- **Pie Chart**: Genre Proportion  
-- **Line Chart**: Average Rating Trend Over Years  
-
----
-
 ## 🚫 Troubleshooting
 
 - **ModuleNotFoundError**: Activate the environment before running:
